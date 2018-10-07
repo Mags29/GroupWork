@@ -54,16 +54,16 @@ _______________________________________
    - **Scope:** Members are not only recommended to provide ratings and comments, they can also add items to our database.Members who give really good comments many times can also be marked as movie experts, etc - we can create titles for them or let them create some. There are many fun things we can develop.
   
 ### 3. ShareRide
-   - **Description:** 
+   - **Description:**  Allows the user to share ride or ask for a ride with another person going to the same destination. Just like carpooling.
 
    - **Category:** Social Networking
 
-   - **Mobile:**
+   - **Mobile:**  Mobile is necessary for instant logging to find the rides or ask for the rides.
 
     
    - **Market:** Everyone
 
-   - **Habit:** 
+   - **Habit:** People can use this app whenever they need ride or want to share ride to go anywhere.
 
    - **Scope:** 
 
