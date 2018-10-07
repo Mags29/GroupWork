@@ -65,6 +65,6 @@ _______________________________________
 
    - **Habit:** People can use this app whenever they need ride or want to share ride to go anywhere.
 
-   - **Scope:** 
+   - **Scope:** V1 people can not see who they are carpooling with. V2 people can see who they are carpooling with, and can request to carpool with someone else
 
 
